@@ -1,0 +1,8 @@
+{
+  "LiteBuildConfig": {
+    "pyodide_packages": [
+      "ipywidgets"
+    ]
+  }
+}
+
