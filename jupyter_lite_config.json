@@ -1,4 +1,13 @@
 {
+  "PyodideLockAddon": {
+    "enabled": true,
+    "specs": [
+      "ipywidgets"
+    ]
+  }
+}
+
+{
   "LiteBuildConfig": {
     "pyodide_packages": [
       "ipywidgets"
