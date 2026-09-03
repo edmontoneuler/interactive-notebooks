@@ -6,10 +6,19 @@ The combination of Github Pages, jupyterlite and Pyodide means that students do 
 
 
 
-## Phonon Modes
 
-[Monoatomic Chain](https://edmontoneuler.github.io/interactive-notebooks/monoatomic_chain.ipynb)
-[Diatomic Chain](https://edmontoneuler.github.io/interactive-notebooks/diatomic_chain.ipynb)
+[CLICK HERE](https://edmontoneuler.github.io/interactive-notebooks)
+
+# Current Notebooks
+
+## Phonons
+
+(1) Monotomic Chain
+(2) Diatomic Chain
+
+## Quantum Mechanics
+
+
 
 
 
