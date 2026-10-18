@@ -6,14 +6,6 @@ The combination of Github Pages, jupyterlite, and Pyodide means that students do
 
 [CLICK HERE](https://edmontoneuler.github.io/interactive-notebooks)
 
-# Current Notebooks
-
-## Phonons
-
-(1) Monotomic Chain (Solid State Basics: Chapter 9)
-
-(2) Diatomic Chain  (Solid State Basics: Chapter 10)
-
 
 
 
